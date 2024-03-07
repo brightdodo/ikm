@@ -1,0 +1,19 @@
+
+=
+java:S2111"!Use "BigDecimal.valueOf" instead.(‡ÄÕA8š’éÈá1
+]	java:S125"<This block of commented-out lines of code should be removed.(¬‹€şÿÿÿÿ8œ’éÈá1
+Q
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8œ’éÈá1
+Q
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg8œ’éÈá1
+Q
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8œ’éÈá1
+M
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º8œ’éÈá1
+Q
+java:S1128"5Remove this unused import 'java.io.RandomAccessFile'.(‰Œ)8œ’éÈá1
+Q
+java:S1128	"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8œ’éÈá1
+O
+java:S1128
+"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8œ’éÈá1

@@ -1,0 +1,7 @@
+
+E
+java:S1604"(Make this anonymous inner class a lambda(ÉãÃ®8ÏÙÊá1
+L	java:S106"+Replace this use of System.out by a logger.(—ñ–Œøÿÿÿÿ8ÖÙÊá1
+]	java:S125"<This block of commented-out lines of code should be removed.(×º“¿úÿÿÿÿ8ÖÙÊá1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8ÖÙÊá1

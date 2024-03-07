@@ -1,0 +1,10 @@
+
+p
+java:S1104"SMake goodbye a static final constant or non-public and provide accessors if needed.(¹ìÔ”8´ÿò¾à1
+J
+java:S1444"-Make this "public static goodbye" field final(¹ìÔ”8µÿò¾à1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—¶±8µÿò¾à1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(—¶±8¸ÿò¾à1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¹ìÔ”8¹ÿò¾à1

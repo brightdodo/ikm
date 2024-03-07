@@ -1,0 +1,14 @@
+
+K
+java:S3740"/Provide the parametrized type for this generic.(ŒÌ?8šˆ¿à1
+L	java:S106	"+Replace this use of System.out by a logger.(ÕäÓ¶ÿÿÿÿÿ8£šˆ¿à1
+G	java:S106"+Replace this use of System.out by a logger.(Õ±°Â8£šˆ¿à1
+L	java:S106"+Replace this use of System.out by a logger.(†¸­øÿÿÿÿ8£šˆ¿à1
+L	java:S106"+Replace this use of System.out by a logger.(ÅšÚÆÿÿÿÿÿ8£šˆ¿à1
+F	java:S106"+Replace this use of System.out by a logger.(¸‡_8¤šˆ¿à1
+a
+java:S2147)"DCombine this catch with the one at line 39, which has the same body.(ä ¹€8¦šˆ¿à1
+{
+java:S2142)"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8§šˆ¿à1
+G	java:S106$"+Replace this use of System.out by a logger.(ÿÉñƒ8¨šˆ¿à1
+G	java:S106&"+Replace this use of System.out by a logger.(Ûë¥¢8¨šˆ¿à1

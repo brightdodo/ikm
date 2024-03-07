@@ -1,0 +1,17 @@
+
+9
+java:S2129"Remove this "Long" constructor(ŞÁÇÇøÿÿÿÿ
+G
+java:S1874",Remove this use of "Long"; it is deprecated.(ŞÁÇÇøÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(‘¼‰ƒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‘¼‰ƒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½Úî¸şÿÿÿÿ
+N
+java:S1128"3Remove this unused import 'java.text.ChoiceFormat'.(Ÿ’üùÿÿÿÿ
+W
+java:S4973	"<Strings and Boxed types should be compared using "equals()".(˜š·ˆÿÿÿÿÿ
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(˜š·ˆÿÿÿÿÿ
+R
+java:S2589	"7Remove this expression which always evaluates to "true"(˜š·ˆÿÿÿÿÿ

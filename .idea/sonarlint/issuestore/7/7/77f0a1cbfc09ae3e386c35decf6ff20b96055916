@@ -1,0 +1,9 @@
+
+:
+java:S1118"Hide this public constructor.(®—ΦΫ8Φφί1
+Y
+java:S1854"7Remove this useless assignment to local variable "obj".(ϋΚΡ–ψÿÿÿÿ8’Φφί1
+G	java:S106"+Replace this use of System.out by a logger.(©›φτ8“Φφί1
+J
+java:S1481"(Remove this unused "obj" local variable.(ϋΚΡ–ψÿÿÿÿ8”Φφί1
+G	java:S106"+Replace this use of System.out by a logger.(©›φτ8”Φφί1

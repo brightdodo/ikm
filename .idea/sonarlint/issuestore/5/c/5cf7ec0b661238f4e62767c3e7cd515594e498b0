@@ -1,0 +1,10 @@
+
+a
+java:S2259"?A "NullPointerException" could be thrown; "y" is nullable here.(ûÙåÙıÿÿÿÿ8¼¹òûÒ0
+G	java:S106"+Replace this use of System.out by a logger.(ªÍµÏ8Á¹òûÒ0
+G	java:S106
+"+Replace this use of System.out by a logger.(«ş›¤8Ã¹òûÒ0
+L	java:S106"+Replace this use of System.out by a logger.(ûÙåÙıÿÿÿÿ8Å¹òûÒ0
+I
+java:S1125"'Remove the unnecessary boolean literal.(ûÙåÙıÿÿÿÿ8Ç¹òûÒ0
+G	java:S106"+Replace this use of System.out by a logger.(«ş›¤8È¹òûÒ0

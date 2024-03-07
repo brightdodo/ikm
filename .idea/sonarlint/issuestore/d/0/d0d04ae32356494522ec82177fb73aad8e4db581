@@ -1,0 +1,8 @@
+
+•
+java:S1130"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(Í‰“o8Ü„§æÅ0
+‘
+java:S1130"uRemove the declaration of thrown exception 'java.net.ProtocolException' which is a subclass of 'java.io.IOException'.(Í‰“o8¾¬§æÅ0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¥¾»øÿÿÿÿ
+L
+java:S1144"7Remove this unused private "getResponsePerPage" method.(Í‰“o

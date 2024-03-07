@@ -1,0 +1,23 @@
+
+W
+java:S1854
+"5Remove this useless assignment to local variable "b".(©î¶´üÿÿÿÿ8Ôóá˜à1
+W
+java:S1854"5Remove this useless assignment to local variable "e".(Ú÷¸Èùÿÿÿÿ8Ôóá˜à1
+H
+java:S1481"&Remove this unused "b" local variable.(ñ»ÅÜøÿÿÿÿ8Õóá˜à1
+e
+java:S6201	"HReplace this instanceof check and cast with 'instanceof Boolean boolean'(ªÄÏÙ8Õóá˜à1
+L	java:S106"+Replace this use of System.out by a logger.(ˆİëÒüÿÿÿÿ8Öóá˜à1
+L	java:S106"+Replace this use of System.out by a logger.(ıéãâşÿÿÿÿ8Öóá˜à1
+E
+java:S1125"(Remove the unnecessary boolean literals.(Ÿ ªØ8×óá˜à1
+L	java:S106"+Replace this use of System.out by a logger.(æ½¸Íûÿÿÿÿ8×óá˜à1
+;
+java:S2178"Correct this "|" to "||".(Ú÷¸Èùÿÿÿÿ8×óá˜à1
+K
+java:S1905")Remove this unnecessary cast to "Double".(Ú÷¸Èùÿÿÿÿ8×óá˜à1
+E
+java:S1125"(Remove the unnecessary boolean literals.(‹Œ÷¥8×óá˜à1
+G	java:S106"+Replace this use of System.out by a logger.(½±À‰8×óá˜à1
+G	java:S106"+Replace this use of System.out by a logger.(Æüç©8×óá˜à1

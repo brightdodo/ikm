@@ -1,0 +1,16 @@
+
+F	java:S106"+Replace this use of System.out by a logger.(ˆ˜½8¢À“øß1
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8¢À“øß1
+G	java:S106"+Replace this use of System.out by a logger.(Ç¬Á„8¢À“øß1
+V
+java:S1854"9Remove this useless assignment to local variable "test2".(Ü¿Ä8¢À“øß1
+[
+java:S1854"9Remove this useless assignment to local variable "test1".(Õà¨Æúÿÿÿÿ8¢À“øß1
+L	java:S106"+Replace this use of System.out by a logger.(ÄÊ¡ºûÿÿÿÿ8£À“øß1
+G	java:S106"+Replace this use of System.out by a logger.(ç®‡µ8£À“øß1
+L
+java:S1481"*Remove this unused "test1" local variable.(Õà¨Æúÿÿÿÿ8£À“øß1
+L	java:S106"+Replace this use of System.out by a logger.(Ö•Ûïÿÿÿÿÿ8£À“øß1
+G
+java:S1481"*Remove this unused "test2" local variable.(Ü¿Ä8£À“øß1

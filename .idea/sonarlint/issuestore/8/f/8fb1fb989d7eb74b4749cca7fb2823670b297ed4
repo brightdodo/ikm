@@ -1,0 +1,13 @@
+
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(¬½Ö¾8Ì”Úùß1
+c
+java:S1854"ARemove this useless assignment to local variable "quadrilateral".(í‘òÑÿÿÿÿÿ8Ï÷Ûùß1
+[
+java:S1854
+"9Remove this useless assignment to local variable "shape".(ó¿Ûüÿÿÿÿ8“šìÇá1
+L
+java:S1481
+"*Remove this unused "shape" local variable.(ó¿Ûüÿÿÿÿ8Ğ÷Ûùß1
+T
+java:S1481"2Remove this unused "quadrilateral" local variable.(í‘òÑÿÿÿÿÿ8”šìÇá1

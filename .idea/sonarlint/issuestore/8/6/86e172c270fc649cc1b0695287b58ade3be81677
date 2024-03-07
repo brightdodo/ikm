@@ -1,0 +1,5 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(÷¬‘¨ÿÿÿÿÿ8—Ëó˜à1
+X	java:S125"<This block of commented-out lines of code should be removed.(å÷¹ö8âú¾Éá1
+d
+java:S1612	"BReplace this lambda with method reference 'Comparable::compareTo'.(’²¸Ãýÿÿÿÿ8—Ëó˜à1

@@ -1,0 +1,11 @@
+
+^
+java:S1854"<Remove this useless assignment to local variable "myStream".(ØëŒ ÿÿÿÿÿ8ø“”õß1
+]	java:S125"<This block of commented-out lines of code should be removed.(­ùË¥ûÿÿÿÿ8ú“”õß1
+O
+java:S1481"-Remove this unused "myStream" local variable.(ØëŒ ÿÿÿÿÿ8ú“”õß1
+]	java:S125""<This block of commented-out lines of code should be removed.(Ê­ŠÂùÿÿÿÿ8û“”õß1
+L	java:S106-"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8û“”õß1
+L	java:S106."+Replace this use of System.out by a logger.(ˆéèÜûÿÿÿÿ8û“”õß1
+L	java:S106/"+Replace this use of System.out by a logger.(¨†‘ğùÿÿÿÿ8û“”õß1
+G	java:S1060"+Replace this use of System.out by a logger.(™±Œ»8û“”õß1

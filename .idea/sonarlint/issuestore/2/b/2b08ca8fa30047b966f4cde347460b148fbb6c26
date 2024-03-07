@@ -1,0 +1,7 @@
+
+@
+java:S2201"*The return value of "reduce" must be used.(Ã¾¦ı
+M	java:S106
+"9Replace this use of System.out or System.err by a logger.(¹Âï
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İ•Šùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(üŒİ¯ûÿÿÿÿ

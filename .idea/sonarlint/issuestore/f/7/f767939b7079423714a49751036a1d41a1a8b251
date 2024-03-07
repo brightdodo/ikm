@@ -1,0 +1,13 @@
+
+H
+java:S1659
+"&Declare "lastname" on a separate line.(¾úßÂùÿÿÿÿ8«¢’ÆÓ0
+g
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(¾úßÂùÿÿÿÿ8­¢’ÆÓ0
+]
+java:S1854";Remove this useless assignment to local variable "printit".(Äù…øüÿÿÿÿ8³¢’ÆÓ0
+L	java:S106"+Replace this use of System.out by a logger.(Äù…øüÿÿÿÿ8µ¢’ÆÓ0
+N
+java:S1481",Remove this unused "printit" local variable.(Äù…øüÿÿÿÿ8¶¢’ÆÓ0
+L	java:S106%"+Replace this use of System.out by a logger.(ğŒŒâüÿÿÿÿ8º¢’ÆÓ0

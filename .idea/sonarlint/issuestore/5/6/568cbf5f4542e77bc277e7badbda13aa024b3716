@@ -1,0 +1,12 @@
+
+P
+java:S1121".Extract the assignment out of this expression.(¥½πώÿÿÿÿ8ΕΰµΘα1
+Z
+java:S2589"8Remove this expression which always evaluates to "false"(·γΏόÿÿÿÿ8ΘΰµΘα1
+Y
+java:S2589"7Remove this expression which always evaluates to "true"(¥½πώÿÿÿÿ8ΘΰµΘα1
+L	java:S106"+Replace this use of System.out by a logger.(·γΏόÿÿÿÿ8ΙΰµΘα1
+L	java:S106"+Replace this use of System.out by a logger.(¥½πώÿÿÿÿ8ΙΰµΘα1
+I
+java:S1125"'Remove the unnecessary boolean literal.(¥½πώÿÿÿÿ8ΙΰµΘα1
+L	java:S106	"+Replace this use of System.out by a logger.(—°ψÿÿÿÿ8ΙΰµΘα1

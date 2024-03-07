@@ -1,0 +1,15 @@
+
+W
+java:S2184"ACast one of the operands of this division operation to a "float".(ó¤Ì
+V
+java:S2184"@Cast one of the operands of this integer division to a "double".(ó¤Ì
+5
+java:S1659"Declare "b" on a separate line.(©¤¼ø
+E	java:S106"+Replace this use of System.out by a logger.(’¥™Ìıÿÿÿÿ
+E	java:S106
+"+Replace this use of System.out by a logger.(’¥™Ìıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(’¥™Ìıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(äöÉÙ
+L	java:S106"+Replace this use of System.out by a logger.(½‹ ıÿÿÿÿ8×¤¡üÒ0
+F	java:S106"+Replace this use of System.out by a logger.(°¾¼B8ª»¦üÒ0
+G	java:S106"+Replace this use of System.out by a logger.(‡Óùñ8´»¨üÒ0

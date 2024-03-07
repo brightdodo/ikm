@@ -1,0 +1,20 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(İÆõå8Ê¦ÏÈá1
+G	java:S106!"+Replace this use of System.out by a logger.(Ïåê¸8Ì¦ÏÈá1
+X	java:S125$"<This block of commented-out lines of code should be removed.(Ğ§ö8Ê¦ÏÈá1
+X	java:S125("<This block of commented-out lines of code should be removed.(à¶†Â8·ËÛÈá1
+F	java:S1062"+Replace this use of System.out by a logger.(ñáÉ*8Â®©Ëá1
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8¸ËÛÈá1
+Q
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8¸ËÛÈá1
+Q
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8¸ËÛÈá1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8¸ËÛÈá1
+M
+java:S1128	"0Remove this unused import 'java.io.InputStream'.(¹»º8¸ËÛÈá1
+H
+java:S1128"+Remove this unused import 'java.io.Reader'.(µû¨é8¸ËÛÈá1
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8¸ËÛÈá1

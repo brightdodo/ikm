@@ -1,0 +1,10 @@
+
+T
+java:S1854"9Remove this useless assignment to local variable "total".(σμωψÿÿÿÿ
+S
+java:S1117"8Rename "total" which hides the field declared at line 4.(σμωψÿÿÿÿ
+E
+java:S1481"*Remove this unused "total" local variable.(σμωψÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ύÿÒδόÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(ύÿÒδόÿÿÿÿ

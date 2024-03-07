@@ -1,0 +1,11 @@
+
+?
+java:S1118"Hide this public constructor.(ŒçÆ¾úÿÿÿÿ8½ë¹Éá1
+Y
+java:S1854"7Remove this useless assignment to local variable "obj".(ºˆ¿ıÿÿÿÿ8¿ë¹Éá1
+L	java:S106"+Replace this use of System.out by a logger.(ëÉãşÿÿÿÿ8¿ë¹Éá1
+J
+java:S1481"(Remove this unused "obj" local variable.(ºˆ¿ıÿÿÿÿ8¿ë¹Éá1
+G	java:S106"+Replace this use of System.out by a logger.(©›öô8Àë¹Éá1
+Q
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8¤ÉºÉá1

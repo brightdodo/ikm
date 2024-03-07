@@ -1,0 +1,17 @@
+
+‘
+java:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(üÚÈ–
+C
+java:S1172	"(Remove this unused method parameter "i".(«¤ôïøÿÿÿÿ
+x
+java:S4276	"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(«¤ôïøÿÿÿÿ
+w
+java:S4276	"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(«¤ôïøÿÿÿÿ
+r
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(×†Áÿÿÿÿÿ
+s
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(üÚÈ–
+E	java:S106"+Replace this use of System.out by a logger.(²ÇÀ‘úÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(½“ê·
+G	java:S106"+Replace this use of System.out by a logger.(²Üõ8ÉöÒÈÓ0
+G	java:S106"+Replace this use of System.out by a logger.(¡Ù½õ8­úÓÈÓ0

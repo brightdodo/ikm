@@ -1,0 +1,10 @@
+
+a
+java:S2259
+"?A "NullPointerException" could be thrown; "a" is nullable here.(İÔšÔùÿÿÿÿ8©ºìşß1
+L	java:S106
+"+Replace this use of System.out by a logger.(İÔšÔùÿÿÿÿ8™¬éşß1
+G	java:S106"+Replace this use of System.out by a logger.(ÒàÃ8š¬éşß1
+L	java:S106"+Replace this use of System.out by a logger.(©¥°ÿÿÿÿÿ8š¬éşß1
+L	java:S106"+Replace this use of System.out by a logger.(ŒÚÎ£ùÿÿÿÿ8š¬éşß1
+L	java:S106"+Replace this use of System.out by a logger.(Äûµ×øÿÿÿÿ8¢Øêşß1

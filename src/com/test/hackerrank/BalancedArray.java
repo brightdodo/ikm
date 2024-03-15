@@ -1,11 +1,12 @@
 package com.test.hackerrank;
 
+import java.util.Arrays;
 import java.util.List;
 
 public class BalancedArray {
     public static void main(String[] args) {
         int[] array = {2,4,7,4,9,10,5,12,3};
-        var array2 = List.of(1,2,3,4,6);
+        List array2 = Arrays.asList(1, 2, 3, 4, 6);
         System.out.println(isBalanced(array2));
     }
 

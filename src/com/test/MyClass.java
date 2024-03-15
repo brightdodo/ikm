@@ -22,7 +22,7 @@ class MyTest{
         }
 
         System.out.println(message);
-        var e1 = new Employee<Integer, String>(1,"One");
+        Employee e1 = new Employee<Integer, String>(1,"One");
         System.out.println(e1);
     }
 }

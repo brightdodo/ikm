@@ -10,7 +10,7 @@ public class SystemManager {
     static {
         String currentString = null;
         try{
-            var reader = new BufferedReader(new FileReader("initconfig.txt"));
+            BufferedReader reader = new BufferedReader(new FileReader("initconfig.txt"));
             initString = reader.lines().findFirst().orElse(null);
         } catch (IOException e) {
             System.out.println("Paita error");
@@ -26,6 +26,6 @@ public class SystemManager {
     }
 
     public static void main(String[] args) {
-        var myClass = new SystemManager();
+        SystemManager myClass = new SystemManager();
     }
 }

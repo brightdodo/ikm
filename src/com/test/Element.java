@@ -1,5 +1,7 @@
 package com.test;
 
+import java.sql.SQLOutput;
+
 public enum Element {
     HELIUM("He", "Gas"),
     MAGNESIUM("Mg", "Solid");
@@ -17,5 +19,10 @@ public enum Element {
 
     public String getNature(){
         return nature;
+    }
+
+    public static void main(String[] args) {
+        //System.out.printf("%s, %s, %s", Element[0],Element[0].chemicalSymbol,Element[0].nature);
+        //System.out.println(Element.HELIUM);
     }
 }

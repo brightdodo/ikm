@@ -7,11 +7,13 @@ public class Equal {
         Long l = new Long(1234);
         Long ll = l;
         if (l==ll)
-            System.out.println("zvakaenzana");
+            System.out.println("Equal Objects");
+        else
+            System.out.println("Not Equal Objects");
         l++;
         if (l==ll)
-            System.out.println("zvakaenzana");
+            System.out.println("Equal Objects");
         else
-            System.out.println("hazvina");
+            System.out.println("Not Equal Objects");
     }
 }

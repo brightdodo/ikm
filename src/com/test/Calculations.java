@@ -11,7 +11,7 @@ public class Calculations {
         System.out.println("Enter total");
         float iTotal = scanner.nextInt();
 
-        var avg = iMark/iTotal;
+        float avg = iMark/iTotal;
         System.out.println(avg);
 
         double percent = avg * 100;

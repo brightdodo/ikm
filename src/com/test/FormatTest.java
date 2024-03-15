@@ -3,7 +3,7 @@ package com.test;
 import java.util.Formatter;
 
 public class FormatTest {
-   /* public static void main(String[] args) {
+    public static void main(String[] args) {
         String stringA = "A";
         String stringB = "B";
         String stringnull = null;
@@ -18,9 +18,6 @@ public class FormatTest {
 
         fmt.format("%b", stringnull);
         System.out.println("Line 3: "+fmt);
-    }*/
-
-    static public void main(String... args){
-        System.out.println("hello");
     }
+
 }
